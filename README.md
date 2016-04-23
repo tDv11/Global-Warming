@@ -18,14 +18,10 @@ So if the tempature of the whole year is repeating it self, and the global tempa
 ![alt tag](PlotGlobalWarmingUS.png)
 
 
-Date
-Max_TemperatureC
-Mean_TemperatureC
-Min_TemperatureC
-| Date | Max_Tempature | Avrg_Tempature | Min_Tempature
+| Date | Max_Tempature | Avrg_Tempature | Min_Tempature |
 | --- | --- | --- | --- |
-2015-01-01 | 21 | 16 | 11 | 2 |
-2015-01-02|17|13|9|3|
+|2015-01-01 | 21 | 16 | 11 | 2 |
+|2015-01-02|17|13|9|3|
 2015-01-03
 18
 14
