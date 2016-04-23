@@ -5,7 +5,8 @@ multiple lines of scientific evidence show that the climate system is warming,  
 ![alt tag](PlotGlobalWarmingIL.png)
 
 I assume that the climate change in earth is like a sinus wave, it goes up and down, almost as if the earth keep changing he's Min and Max temperatue to "fix it's self".
-![alt tag](PlotGlobalWarmingKIN.png)As you can see in the next graph, the tempature is going from the buttom to the top of the graph and back to the buttom, and if we will glue the average of 2014 to it's back we will see a wave that repeating it self.
+![alt tag](PlotGlobalWarmingKIN.png)<br>
+As you can see in the next graph, the tempature is going from the buttom to the top of the graph and back to the buttom, and if we will glue the average of 2014 to it's back we will see a wave that repeating it self.
 So if the tempature of the whole year is repeating it self, and the global tempature of the last 15 years keeps going up and down, means that we'r very far from global extinction. :)
 ![alt tag](PlotAverage2015.png)
 
