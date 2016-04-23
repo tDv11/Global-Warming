@@ -10,6 +10,7 @@ multiple lines of scientific evidence show that the climate system is warming,  
 
 
 
-### A graph that show's the highest average day temperature of the last 15 years in Israel and the US:
+### A graph that show's the highest average day temperature of the last 15 years in Israel, US and Jamaica:
 ![alt tag](PlotGlobalWarmingIL.png)
 ![alt tag](PlotGlobalWarmingUS.png)
+![alt tag](PlotGlobalWarmingKIN.png)
