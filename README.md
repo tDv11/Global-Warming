@@ -17,6 +17,7 @@ So if the tempature of the whole year is repeating it self, and the global tempa
 
 ![alt tag](PlotGlobalWarmingUS.png)
 
+- [ ] To continue conducting the research we should use more old data, from varies of citys in the globe and compare it to the current data of the weather, max_tempature etc.
 
 | Date | Max_Tempature | Avrg_Tempature | Min_Tempature |
 | --- | --- | --- | --- |
@@ -33,3 +34,4 @@ So if the tempature of the whole year is repeating it self, and the global tempa
 |2015-11-27|27|19|12|
 |2015-11-28|25|19|12|
 |2015-11-29|23|18|12|
+
