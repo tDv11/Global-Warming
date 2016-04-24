@@ -6,10 +6,11 @@ multiple lines of scientific evidence show that the climate system is warming,  
 - [ ] I gatherd data of average tempature on each day of 2015 and 2014, of Israel the US and Jamaica.
 - [ ] Then I sum the average tempature of 2015 and compared it for 2014.
 - [ ] Although NASA did report the CO2 as increased above anything we ever saw before, the average tempature was the same!<br>
-| year  | Israel | US | jamaica |
+
+| year| Israel | US | jamaica |
 | --- | --- | --- | --- |
 | 2015  | 21.16986 | 21.16986 | 21.16986 |
-| 2016  | 21.16986 | 21.16986 | 21.16986 |
+| 2014  | 21.16986 | 21.16986 | 21.16986 |
 
 
 I assume that the climate change in earth is like a sinus wave, it goes up and down, almost as if the earth keep changing he's Min and Max temperatue to "fix it's self".
