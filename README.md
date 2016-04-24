@@ -12,6 +12,9 @@ multiple lines of scientific evidence show that the climate system is warming,  
 | 2015  | 21.16986 | 15.89041 | 28.39726 |
 | 2014  | 21.32329 | 16.85205 | 28.20000 |
 
+- [ ] You can see the comparison in the next graph: <br>
+![alt tag](TempatureComparisonPlot.png)
+
 
 I assume that the climate change in earth is like a sinus wave, it goes up and down, almost as if the earth keep changing he's Min and Max temperatue to "fix it's self".
 ![alt tag](PlotGlobalWarmingKIN.png)<br>
