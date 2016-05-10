@@ -19,7 +19,7 @@ multiple lines of scientific evidence show that the climate system is warming,  
 
 I assume that the climate change in earth is like a sinus wave, it goes up and down, almost as if the earth keep changing he's Min and Max temperatue to "fix it's self".<br>
 You can see what I mean in the next two plots' <br>
-Israel avarege temp:<br>
+Israel average temp:<br>
  ![alt tag](PlotGlobalWarmingIL.png)<br>
  and of jamica:<br>
 ![alt tag](PlotGlobalWarmingKIN.png)<br>
