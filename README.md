@@ -17,11 +17,11 @@ multiple lines of scientific evidence show that the climate system is warming,  
 ![alt tag](TempatureComparisonPlot.png)
 
 
-I assume that the climate change in earth is like a sinus wave, it goes up and down, almost as if the earth keep changing he's Min and Max temperatue to "fix it's self".
-You can see what I mean in the next two plots' of israel avarege tmp:
- The next plot is of avarege temp in israel,
- ![alt tag](PlotGlobalWarmingIL.png)
- and of jamica:
+I assume that the climate change in earth is like a sinus wave, it goes up and down, almost as if the earth keep changing he's Min and Max temperatue to "fix it's self".<br>
+You can see what I mean in the next two plots' <br>
+Israel avarege temp:<br>
+ ![alt tag](PlotGlobalWarmingIL.png)<br>
+ and of jamica:<br>
 ![alt tag](PlotGlobalWarmingKIN.png)<br>
 As you can see in the next graph, the tempature is going from the buttom to the top of the graph and back to the buttom, and if we will glue the average of 2014 to it's back we will see a wave that repeating it self.
 So if the tempature of the whole year is repeating it self, and the global tempature of the last 15 years keeps going up and down, means that we'r very far from global extinction. :) <br>
